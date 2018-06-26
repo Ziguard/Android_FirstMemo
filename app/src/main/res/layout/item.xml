@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp">
+    <TextView
+        android:id="@+id/libelle_course"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/note_hauteur"
+        android:textSize="@dimen/note_texte_taille"
+        android:textColor="@color/colorPrimary"
+        android:textAlignment="textStart"
+        android:layout_margin="@dimen/note_marging_taille"
+        />
+</FrameLayout>
+

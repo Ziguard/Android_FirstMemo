@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="note_hauteur" >64dp</dimen>
+    <dimen name="note_texte_taille">18sp</dimen>
+    <dimen name="note_marging_taille">8dp</dimen>
+
+
+    <dimen name="champ_texte_taille">18sp</dimen>
+    <dimen name="element_hauteur" >64dp</dimen>
+</resources>

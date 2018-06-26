@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#143554</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="color_bouton">#a5362b</color>
+
+    <!--saisie-->
+    <color name="color_bg_saisie_note">#95bce5</color>
+    <color name="color_texte_saisie_note">#597da0</color>
+
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Liste Simple</string>
+
+    <string name="text_saisie_memo">Saisir un mêmo</string>
+
+    <!--bouton-->
+    <string name="text_bouton">OK</string>
+</resources>
